@@ -1,2 +1,3 @@
 # hello-world
-Jus another repository
+
+HELLO FRIENDS HOW R U I M GOOD AND U? GREAT 
